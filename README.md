@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniyar Saparov
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning data manipulation, cloud computing, big data analysis, big data machine learning and many other things
+- 👀 I’m a professional Data Scientist, Machine Learning Engineer and Quantitative Analyst
+- 🌱 I’m interested in data analysis, cloud computing, statistical computing, quantum computation, machine learning, and many others.
 - 📫 How to reach me: daniyarsaparov@gmail.com
 
 <!---
