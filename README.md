@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniyar Saparov
+- 👋 Hi, I’m Dan Saparov
 - 👀 I’m a professional Data Scientist, Machine Learning Engineer and Quantitative Analyst
 - 🌱 I’m interested in data analysis, cloud computing, statistical computing, quantum computation, machine learning, and many others.
 - 📫 How to reach me: daniyarsaparov@gmail.com
